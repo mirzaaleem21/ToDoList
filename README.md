@@ -1,3 +1,8 @@
+# A simple ToDoList using React
+<img src="/todo1.png" height="500px">
+<img src="/todo2.png" height="500px">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
